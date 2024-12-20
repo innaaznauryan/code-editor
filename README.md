@@ -2,6 +2,8 @@
 
 A simple code editor where users can write and run the code.
 
+Live demo version: [here](https://code-editor-vue.netlify.app)
+
 #### How to Run the Project
 
 - Clone the repository to your local machine.
